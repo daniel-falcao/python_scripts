@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+readability-lxml
+duckduckgo-search
+pyinstaller
+fpdf
+pathlib
+docx
+docx.shared
+http_client
+logger
+tkinter
