@@ -10,8 +10,8 @@
 - Após a consolidação, procurar o quinto registro do arquivo consolidado na coluna A de uma planilha Excel e inserir na última coluna do arquivo txt consolidado o valor correspondente da coluna C do arquivo Excel.
 
 ### de_x_para_registros.py
-- Scrip para usar uma base de dados em excel como uma base de machine learning através de similaridade semântica para identificar registros atrvés da descrição.
-- Abrir um a um todos os arquivos Excel contidos na pasta informada e buscar a descrição presente na coluna informada dentro da base de dados, buscando similaridades uma vez que as descrição nem sempre serão idênticas mas podem significar a mesma coisa.
+- Scrip para usar uma base de dados em excel como dataset para machine learning.
+- Abrir um a um todos os arquivos Excel contidos na pasta informada e buscar a descrição presente na coluna informada dentro ddo dataset e procurar descrições similares semanticamente utilizando processamento de linguagem natural (NLP) uma vez que as descrição nem sempre serão idênticas mas podem significar a mesma coisa.
 - Quando encontrar um registro similar, inserir no arquivo em análise nas duas últimas colunas o código e a descrição encontrados na base de dados.
 
 ### Projeto receitas
